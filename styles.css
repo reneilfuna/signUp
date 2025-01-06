@@ -6,8 +6,13 @@
 
 body {
     display: flex;
-    flex-direction: row;
-    height: 100%;
+}
+
+#container {
+    display: flex;
+    margin: 7.5vh 7.5vw;
+    height: 85vh;
+    width: 85vw;
 }
 
 #images {
