@@ -10,18 +10,18 @@ body {
 
 #container {
     display: flex;
-    margin: 12.5vh 5vw;
-    height: 75vh;
-    width: 90vw;
+    margin-block: 10vh;
+    height: 80vh;
+    width: 100vw;
 }
 
 #images {
     display: flex;
-    width: 45%;
+    width: 40%;
     
     background-image: url(./images/richard-stachmann-pkt-3hdmYzU-unsplash.jpg);
     background-position: center;
-    background-size: 640px 900px;
+    background-size: 640px 907px;
     background-repeat: no-repeat;
 }
 
