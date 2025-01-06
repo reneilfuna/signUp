@@ -12,6 +12,8 @@ body {
 #images {
     display: flex;
     width: 40%;
+    
+    background-image: url(./images/richard-stachmann-pkt-3hdmYzU-unsplash.jpg);
 }
 
 #text {
