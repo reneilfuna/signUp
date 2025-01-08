@@ -29,6 +29,12 @@ body {
     justify-content: space-between;
 }
 
+#logo {
+    width: 100%;
+    background-color: black;
+    opacity: 60%;
+}
+
 #text {
     display: flex;
     width: 57.5%;
