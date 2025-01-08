@@ -60,11 +60,6 @@ img {
     opacity: 1;
 }
 
-#text {
-    display: flex;
-    width: 57.5%;
-}
-
 #images p,
 #images a  {
     color: #E5E7EB;
@@ -72,4 +67,24 @@ img {
 
 #images p {
     margin-block-end: 12px;
+}
+
+#description,
+#form,
+#submit {
+    padding: 40px;
+    margin-block-start: 15%;
+    margin-inline-end: 8%;
+}
+
+#text {
+    display: flex;
+    width: 57.5%;
+
+    flex-direction: column;
+}
+
+#description p {
+    font-weight: 600;
+    font-size: 28px;
 }
