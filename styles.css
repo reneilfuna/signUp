@@ -37,6 +37,10 @@ body {
 
     background-color: black;
     opacity: 60%;
+
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
 }
 
 img {
