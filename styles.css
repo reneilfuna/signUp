@@ -69,3 +69,7 @@ img {
 #images a  {
     color: #E5E7EB;
 }
+
+#images p {
+    margin-block-end: 12px;
+}
