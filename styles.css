@@ -36,6 +36,8 @@ body {
     margin-block-start: 36%;
 
     background-color: black;
+    color: #E5E7EB;
+    font-size: 90px;
     opacity: 60%;
 
     flex-direction: row;
