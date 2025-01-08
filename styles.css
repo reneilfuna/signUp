@@ -70,19 +70,22 @@ img {
     margin-block-end: 12px;
 }
 
-#description,
-#form,
-#submit {
-    padding: 40px;
-    margin-block-start: 15%;
-    margin-inline-end: 8%;
-}
-
 #text {
     display: flex;
     width: 57.5%;
 
     flex-direction: column;
+}
+
+#description,
+#form,
+#submit {
+    padding: 40px;
+}
+
+#description {
+    margin-block-start: 15%;
+    margin-inline-end: 8%;
 }
 
 #description p {
