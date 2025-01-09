@@ -90,7 +90,7 @@ img {
 }
 
 #description p,
-#form p {
+legend {
     font-family: sans-serif, "Roboto", "Times New Roman";
     font-weight: 600;
     font-size: 28px;
@@ -101,4 +101,8 @@ img {
     background-color: #FFFFFF;
 
     height: 30%;
+}
+
+fieldset {
+    border: 0;
 }
