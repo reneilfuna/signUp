@@ -75,6 +75,7 @@ img {
     width: 57.5%;
 
     flex-direction: column;
+    background-color: #F9FAFB;
 }
 
 #description,
@@ -92,4 +93,8 @@ img {
     font-family: sans-serif, "Roboto", "Times New Roman";
     font-weight: 600;
     font-size: 28px;
+}
+
+#form {
+    background-color: #FFFFFF;
 }
