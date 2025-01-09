@@ -148,6 +148,15 @@ input {
     border-radius: 3px;
 }
 
+input:focus {
+    outline: none;
+    border: 2px solid blue;
+}
+
+input:invalid {
+    border: 2px solid red;
+}
+
 #submit {
     height: 20%;
 }
