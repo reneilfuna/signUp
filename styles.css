@@ -102,6 +102,7 @@ img {
 
     flex-direction: column;
     background-color: #FFFFFF;
+    box-shadow: 0px 4px 10px lightgray;
     gap: 20px;
 }
 
