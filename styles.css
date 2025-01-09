@@ -90,7 +90,7 @@ img {
 }
 
 #description p,
-legend {
+#form p {
     font-family: sans-serif, "Roboto", "Times New Roman";
     font-weight: 600;
     font-size: 28px;
@@ -98,11 +98,22 @@ legend {
 
 #form {
     display: flex;
-    background-color: #FFFFFF;
-
     height: 30%;
+
+    flex-direction: column;
+    background-color: #FFFFFF;
+    justify-content: space-between;
 }
 
 fieldset {
     border: 0;
+    display: flex;
+
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.form_entry {
+    display: flex;
+    flex-direction: column;
 }
