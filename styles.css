@@ -89,12 +89,16 @@ img {
     margin-inline-end: 8%;
 }
 
-#description p {
+#description p,
+#form p {
     font-family: sans-serif, "Roboto", "Times New Roman";
     font-weight: 600;
     font-size: 28px;
 }
 
 #form {
+    display: flex;
     background-color: #FFFFFF;
+
+    height: 30%;
 }
