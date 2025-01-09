@@ -140,4 +140,7 @@ label {
 
 input {
     height: 50%;
+    background-color: #FFFFFF;
+    border: 1px solid #E5E7EB;
+    border-radius: 3px;
 }
