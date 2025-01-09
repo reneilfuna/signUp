@@ -109,6 +109,10 @@ img {
     gap: 20px;
 }
 
+#form p {
+    color: rgb(65, 61, 61);
+}
+
 form{
     display: flex;
     padding-inline-end: 20%;
